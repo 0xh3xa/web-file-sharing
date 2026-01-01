@@ -7,7 +7,7 @@
 
 A real-time file sharing project built with PHP and Java that allows users to upload, delete, browse, edit, and share files via links.
 
-This project is similar to Google Docs, enabling multiple clients to view and manage the same file concurrently. Users must register and log in before performing any file operations.
+This project is similar to Google Docs, enabling multiple clients to view and manage the same file. Users must register and log in before performing any file operations.
 
 ## Features
 
