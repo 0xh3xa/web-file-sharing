@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/static/v1?label=Language&message=Java&color=green&style=flat)](https://www.oracle.com/java/technologies/javase-downloads.html) 
 [![PHP](https://img.shields.io/static/v1?label=Language&message=PHP&color=blue&style=flat)](https://www.php.net/)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey?color=purple&style=flat)]()
+[![Platform](https://img.shields.io/badge/Platform-Cross-lightgrey?color=purple&style=flat)]()
 
 
 A real-time file sharing project built with PHP and Java that allows users to upload, delete, browse, edit, and share files via links.
